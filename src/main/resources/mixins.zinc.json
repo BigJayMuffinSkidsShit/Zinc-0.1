@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.zinc.hack.mixin.mixins",
+  "refmap": "mixins.catclient.refmap.json",
+  "mixins": [
+    "accessors.AccessorMinecraft",
+    "IEntity",
+    "IEntityLivingBase",
+    "MixinNetworkManager"
+  ],
+  "client": []
+}

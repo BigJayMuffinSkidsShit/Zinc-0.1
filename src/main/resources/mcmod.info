@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zinc",
+  "name": "Zinc",
+  "description": "swagger cpvp client",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kisman and bigj"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
